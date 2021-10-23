@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659198068495",
+    "project_id": "wall-share-62d95",
+    "storage_bucket": "wall-share-62d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659198068495:android:d3ef2c2809142ad295a07a",
+        "android_client_info": {
+          "package_name": "com.msbshamim60.wallshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659198068495-e5060hkqeeosqijas4iucjm4secj7969.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msbshamim60.wallshare",
+            "certificate_hash": "b032216d256a3d9f0f9a4062f3d9ff87ed53cffe"
+          }
+        },
+        {
+          "client_id": "659198068495-iamm8jvrn3mm8mtasgfvqlgvhsqpd848.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5w-aWB8vVicxFXdnbVBSWMys7GYqdmNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659198068495-iamm8jvrn3mm8mtasgfvqlgvhsqpd848.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

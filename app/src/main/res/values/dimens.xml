@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

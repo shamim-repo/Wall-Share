@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WallShare" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/theme_light_color_for_primary1</item>
+        <item name="colorPrimaryVariant">@color/theme_light_color_for_background</item>
+        <item name="colorOnPrimary">@color/theme_light_color_on_primary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/theme_light_color_for_secondary1</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/theme_light_color_on_secondary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <!-- Background and surface -->
+        <item name="android:windowBackground">@color/theme_light_color_for_background</item>
+        <item name="colorOnBackground">@color/theme_light_color_on_background</item>
+        <item name="colorSurface">@color/theme_light_color_for_surface</item>
+        <item name="colorOnSurface">@color/theme_light_color_on_surface</item>
+        <item name="colorError">@color/theme_light_color_for_error</item>
+        <item name="colorOnError">@color/theme_light_color_on_error</item>
+        <item name="android:editTextBackground">@color/theme_light_color_for_surface</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splashscreen</item>
+    </style>
+
+    <style name="bottom_nav_style" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="backgroundColor">@color/theme_light_color_for_primary1</item>
+        <item name="iconTint">@color/black</item>
+        <item name="indicatorColor">#EB57CC99</item>
+    </style>
+</resources>

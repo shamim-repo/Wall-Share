@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_array">
+        <item>Category</item>
+        <item>Animals</item>
+        <item>Anime</item>
+        <item>Brands</item>
+        <item>Cars</item>
+        <item>Cartoons</item>
+        <item>Celebrities</item>
+        <item>Devices</item>
+        <item>Games</item>
+        <item>Geography</item>
+        <item>Holidays</item>
+        <item>Motor</item>
+        <item>Movies</item>
+        <item>Music</item>
+        <item>Nature</item>
+        <item>Other</item>
+        <item>Pokemon</item>
+        <item>Religion</item>
+        <item>Resolutions</item>
+        <item>Space</item>
+        <item>Sports</item>
+        <item>Superheroes</item>
+        <item>TV Shows</item>
+    </string-array>
+</resources>

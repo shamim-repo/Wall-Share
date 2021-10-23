@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Button_Style_secondary" parent="Theme.MaterialComponents">
+        <item name="android:background">@drawable/secondary_gradient</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:foreground">@drawable/ripple_button</item>
+        <item name="android:clickable">true</item>
+        <item name="elevation">50dp</item>
+    </style>
+
+    <style name="Button_Style_primary" parent="Theme.MaterialComponents">
+        <item name="android:background">@drawable/primary_gradient</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:foreground">@drawable/ripple_button</item>
+        <item name="android:clickable">true</item>
+        <item name="elevation">50dp</item>
+    </style>
+    <style name="spinner_Style_primary" parent="Widget.AppCompat.Spinner">
+        <item name="android:background">@drawable/primary_gradient</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:foreground">@drawable/ripple_button</item>
+        <item name="android:clickable">true</item>
+        <item name="elevation">50dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".bottom_nav_ui.profile.login.LoginFragment">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.google.android.material.circularreveal.cardview.CircularRevealCardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="200dp"
+                android:layout_margin="10dp">
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/ic_baseline_person_24"
+                    android:scaleType="centerCrop" />
+            </com.google.android.material.circularreveal.cardview.CircularRevealCardView>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <Button
+        android:id="@+id/sign_in_button"
+        style="@style/Button_Style_primary"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+
+        android:drawableLeft="@drawable/ic_baseline_exit_to_app_24"
+        android:text="@string/sign_in"
+        android:textAllCaps="false"
+        android:textSize="25sp"/>
+
+</LinearLayout>

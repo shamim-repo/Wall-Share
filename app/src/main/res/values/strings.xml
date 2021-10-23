@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Wall Share</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+    <string name="login_to_like">Login to like</string>
+    <string name="login_to_upload">Login to upload</string>
+    <string name="set_as_wallpaper">Set as wallpaper</string>
+
+
+    <string name="title_all">All</string>
+    <string name="title_category">Category</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="string_login">Login</string>
+    <string name="string_sign_in_with_google">Sign In With Google</string>
+    <string name="string_sign_in_with_google_failed">Sign In With Google Failed</string>
+
+    <string name="string_code_has_ben_sent">A verification sms has been sent to this number \n Enter the verification code to verify the number</string>
+
+    <string name="string_login_with_google">Profile</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="no_internet_connection">"No internet Connection"</string>
+    <string name="sign_in_cancelled">"Sign in canceled"</string>
+    <string name="unknown_error">"Unknown Error"</string>
+    <string name="string_logout">Logout</string>
+    <string name="sign_in">Sign In</string>
+    <string name="edit">Edit</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="pick_photo_from">Pick Photo From</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="image_picker_canceled">Image picker canceled</string>
+    <string name="gallery_permission_is_needed_to">Gallery permission is needed to set profile picture</string>
+    <string name="storage_permission_needed">Storage permission needed for setting profile image</string>
+    <string name="Full_Name_cannot_be_empty">Full Name cannot be empty</string>
+    <string name="Profile_Couldnt_Updated">Profile Couldn\'t Updated</string>
+    <string name="Profile_Picture_Upload_Successful">Profile Picture Upload Successful</string>
+    <string name="Profile_Picture_Upload_Unsuccessful">Profile Picture Upload Unsuccessful</string>
+    <string name="post">Post</string>
+    <string name="post_title">Post Title</string>
+    <string name="location">Location</string>
+    <string name="category">Category</string>
+    <string name="new_post">New Post</string>
+    <string name="New_Post_Creation_Unsuccessful">New Post Creation Unsuccessful</string>
+    <string name="No_image_to_post">No image to post</string>
+    <string name="new_title">New</string>
+    <string name="popular_title">Popular</string>
+    <string name="show_post">Show Post</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_as">Set as</string>
+    <string name="wall_paper_set_su">Wall Paper set successfully</string>
+    <string name="delete">Delete</string>
+
+
+</resources>
