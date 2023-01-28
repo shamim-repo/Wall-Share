@@ -192,7 +192,7 @@ public class NewPostFragment extends Fragment {
         ImagePicker.with(this)
                 .maxResultSize(4000,4000)
                 .crop()
-                .cameraOnly()
+                .galleryOnly()
                 .galleryMimeTypes(new String[]{
                         "image/png",
                         "image/jpg",
